@@ -43,3 +43,8 @@ Other stuff
 
     show create table [table_name];
     show indexes in [table_name];
+    
+    
+Alters
+
+    ALTER TABLE `table` ADD INDEX `product_id_idx` (`product_id`)
