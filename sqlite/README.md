@@ -1,3 +1,3 @@
-.databases
-.tables
-.quit
+    .databases
+    .tables
+    .quit
