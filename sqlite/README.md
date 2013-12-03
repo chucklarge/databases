@@ -1,8 +1,8 @@
 load the db
 
-    sqlite users.sqlite < users.sql
-    sqlite users.sqlite
-    select * from users;
+    sqlite3 users.sqlite < users.sql
+    sqlite3 users.sqlite
+    select3 * from users;
 
 sqlite users.sqlite < queries.sql
 
