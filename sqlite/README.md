@@ -2,7 +2,7 @@ load the db
 
     sqlite3 users.sqlite < users.sql
     sqlite3 users.sqlite
-    select3 * from users;
+    select * from users;
 
 sqlite users.sqlite < queries.sql
 
